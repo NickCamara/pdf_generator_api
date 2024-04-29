@@ -42,3 +42,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'google-cloud-storage'
 gem 'wicked_pdf'
 gem 'wkhtmltopdf-binary'
+gem 'dotenv-rails'
